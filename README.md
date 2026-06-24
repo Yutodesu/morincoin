@@ -37,3 +37,5 @@ Para garantir a integridade do ambiente de testes e proteger a hospedagem na Ren
 - [ ] Ajustar o sistema de novos registros com validação dinâmica de convites.
 - [ ] Implementar gráficos ou logs mais detalhados para o Histórico de Blocos.
 - [ ] Criar dinâmicas de economia real usando saldo de MorinCoins.
+
+Desenvolvido por:Yuto Kawaguchi
