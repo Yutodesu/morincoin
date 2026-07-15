@@ -38,4 +38,27 @@ Para garantir a integridade do ambiente de testes e proteger a hospedagem na Ren
 - [ ] Implementar gráficos ou logs mais detalhados para o Histórico de Blocos.
 - [ ] Criar dinâmicas de economia real usando saldo de MorinCoins.
 
-Desenvolvido por:Yuto Kawaguchi
+---
+
+## 📱 MorinCoin Offline (APK Android)
+
+A versão **offline e local** do MorinCoin, ideal para uso pessoal sem depender do servidor. Roda direto no celular Android, sem internet, sem servidor, sem Render.
+
+### ✨ Por que offline?
+- 🔌 **Sem servidor:** não depende do Render (que tá cheio e instável)
+- 💸 **Sem reset de saldo:** transferências ficam salvas no aparelho, não são restauradas
+- 🔒 **Privado:** seus dados ficam só no seu celular
+- ⚡ **Rápido:** abre instantâneo, sem carregar site
+
+### 📥 Download
+Baixe o APK na página de **Releases** do repositório:
+👉 [github.com/Yutodesu/MorinCoin-App/releases](https://github.com/Yutodesu/MorinCoin-App/releases)
+
+> O link da release mais recente tá no repositório paralelo: [Yutodesu/MorinCoin-App](https://github.com/Yutodesu/MorinCoin-App)
+
+### 🐧 F-Droid
+Em breve — após estabilizar o build do Flet.
+
+---
+
+Desenvolvido por: Yuto Kawaguchi
