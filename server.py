@@ -12,7 +12,7 @@ app = Flask(__name__)
 app.secret_key = os.environ.get('FLASK_SECRET_KEY', 'chave_ultra_secreta_da_morincoin')
 
 # Link do PostgreSQL que você gerou na Render
-DATABASE_URL = "postgresql://admin:SdveynYtqSio6nHp7r2ItKVtD5iD7K8V@dpg-d8s7fd7avr4c73fdo9o0-a/morincoin"
+DATABASE_URL = "os.environ.get("DATABASE_URL")"
 
 # Configuração Segura do Bot do Telegram
 TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
